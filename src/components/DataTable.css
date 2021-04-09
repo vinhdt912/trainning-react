@@ -1,0 +1,12 @@
+.age-box {
+  max-width: 50px;
+}
+button,
+input {
+  padding: 5px 20px;
+  margin: 5px 5px;
+}
+.row-table {
+  padding: 5px 30px;
+  border: 1px solid black;
+}
